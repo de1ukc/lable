@@ -1,0 +1,9 @@
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\bin\Debug\net472\Task_3.exe.config
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\bin\Debug\net472\Task_3.exe
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\bin\Debug\net472\Task_3.pdb
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\obj\Debug\net472\Task_3.csprojAssemblyReference.cache
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\obj\Debug\net472\Task_3.AssemblyInfoInputs.cache
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\obj\Debug\net472\Task_3.AssemblyInfo.cs
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\obj\Debug\net472\Task_3.csproj.CoreCompileInputs.cache
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\obj\Debug\net472\Task_3.exe
+D:\Rider_LABS\LAB_2\ZAD_3\Task_3\Task_3\obj\Debug\net472\Task_3.pdb
